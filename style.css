@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+.contents {
+  padding-top: 1%;
+}
+
+#buttonToSaveImg:hover {
+  background-color: darkgreen;
+}
+
+canvas {
+  border: dotted;
+  animation-name: bozo;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  background: white;
+}
